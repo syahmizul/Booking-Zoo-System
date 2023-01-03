@@ -1,0 +1,6 @@
+C:\Users\syahm\source\repos\BookingZoo\Debug\BookingZoo.exe
+C:\Users\syahm\source\repos\BookingZoo\Debug\BookingZoo.pdb
+E:\GitHub Repos\bookingzoo\Debug\BookingZoo.exe
+E:\GitHub Repos\bookingzoo\Debug\BookingZoo.pdb
+C:\Users\syahm\OneDrive\Documents\GitHub\bookingzoo\Debug\BookingZoo.exe
+C:\Users\syahm\OneDrive\Documents\GitHub\bookingzoo\Debug\BookingZoo.pdb

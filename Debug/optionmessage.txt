@@ -1,0 +1,6 @@
+OPTION SCREEN
+=============
+
+1)Book a reservation
+2)Display Receipt
+3)Exit the program
